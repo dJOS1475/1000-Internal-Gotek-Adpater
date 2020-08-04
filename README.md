@@ -3,7 +3,7 @@ Tandy 1000 Internal Gotek Adpater
 
 This Tandy 1000 Internal Gotek Adapter allows you to use Gotek Virtual Floppy Drives with Tandy 1000's that send power over the Floppy cable.
 
-Tandy 1000's that have power supplied via the Floppy Cable include the SL/2, TX, TL, TL/2, TL/3, RL, RLX and RSX.
+Tandy 1000's that have power supplied via the Floppy Cable include the SL/2, TX, TL, TL/2, TL/3.
 
 I made these because many folks wanted to use Gotek Virtual Floppy Drives with their Tandy's but due to the non-standard power-over-cable-design were unable to.
 
